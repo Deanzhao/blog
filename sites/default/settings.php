@@ -197,6 +197,7 @@
  *     'password' => 'password',
  *     'host' => 'localhost',
  *     'prefix' => '',
+/*
  *   );
  *   $databases['default']['default'] = array(
  *     'driver' => 'pgsql',
@@ -212,6 +213,7 @@
  *   );
  * @endcode
  */
+ /*
 $databases = array(
      'driver' => 'mysql',
      'database' => 'blog',
@@ -220,6 +222,7 @@ $databases = array(
      'host' => 'localhost',
      'prefix' => '',
 );
+*/
 
 /**
  * Access control for update.php script.
